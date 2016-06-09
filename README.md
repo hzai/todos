@@ -1,6 +1,3 @@
 ## TODOS meteor example
 
-*saldjflajsdflasd
-falsdfjlasdkjf
-asldfjlasdjflkjasdfljsd
-asdlfalkfalsdf
+### version 1.0.0
